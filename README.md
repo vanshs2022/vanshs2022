@@ -21,31 +21,32 @@
 
 ## 🚀 Projects
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/AryanRaina/Homes28">
-        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/homes28.png" width="250" />
-      <h3>Homes28</h3>
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://github.com/AryanRaina/Homes28" target="_blank">
+        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/homes28.png" alt="Homes28" height="160"/><br/>
+        <b>Homes28</b>
       </a>
       <p>Real estate platform for property listings with filters, images, and detailed views.</p>
     </td>
-    <td align="center" width="300">
-      <a href="https://uni-colab.vercel.app">
-        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/unicolab.png" width="250" />
-      <h3>UniCoLab</h3>
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://uni-colab.vercel.app" target="_blank">
+        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/unicolab.png" alt="UniCoLab" height="160"/><br/>
+        <b>UniCoLab</b>
       </a>
       <p>Platform for students to collaborate on hackathons, projects, and research work.</p>
     </td>
-    <td align="center" width="300">
-      <a href="https://steganographytool-fexw.onrender.com/">
-        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/steganography.png" width="250" />
-      <h3>Steganography Tool</h3>
+    <td align="center" width="33%" style="border: none;">
+      <a href="https://steganographytool-fexw.onrender.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/steganography.png" alt="Steganography Tool" height="160"/><br/>
+        <b>Steganography Tool</b>
       </a>
       <p>Web tool to hide and extract secret messages inside images securely.</p>
     </td>
   </tr>
 </table>
+
 
 
 ---
