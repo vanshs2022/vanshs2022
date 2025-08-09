@@ -21,25 +21,32 @@
 
 ## 🚀 Projects
 
-<p align="center">
-  <a href="https://github.com/AryanRaina/Homes28" target="_blank">
-    <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/homes28.png" alt="Homes28" width="250"/><br/>
-    <b>Homes28</b><br/>
-    Real estate platform for property listings with filters, images, and detailed views.
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://uni-colab.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/unicolab.png" alt="UniCoLab" width="250"/><br/>
-    <b>UniCoLab</b><br/>
-    Platform for students to collaborate on hackathons, projects, and research work.
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://steganographytool-fexw.onrender.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/steganography.png" alt="Steganography Tool" width="250"/><br/>
-    <b>Steganography Tool</b><br/>
-    Web tool to hide and extract secret messages inside images securely.
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/AryanRaina/Homes28" target="_blank">
+        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/homes28.png" alt="Homes28" width="250"/><br/>
+        <b>Homes28</b>
+      </a>
+      <p>Real estate platform for property listings with filters, images, and detailed views.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://uni-colab.vercel.app" target="_blank">
+        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/unicolab.png" alt="UniCoLab" width="250"/><br/>
+        <b>UniCoLab</b>
+      </a>
+      <p>Platform for students to collaborate on hackathons, projects, and research work.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://steganographytool-fexw.onrender.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/steganography.png" alt="Steganography Tool" width="250"/><br/>
+        <b>Steganography Tool</b>
+      </a>
+      <p>Web tool to hide and extract secret messages inside images securely.</p>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
