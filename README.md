@@ -24,22 +24,22 @@
 <p align="center">
   <a href="https://github.com/AryanRaina/Homes28" target="_blank">
     <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/homes28.png" alt="Homes28" width="250"/><br/>
-    <b>Homes28</b> – Real estate platform for property listings with filters, images, and detailed views.
   </a>
+    <b>Homes28</b> – Real estate platform for property listings with filters, images, and detailed views.
 </p>
 
 <p align="center">
   <a href="https://uni-colab.vercel.app" target="_blank">
     <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/unicolab.png" alt="UniCoLab" width="250"/><br/>
-    <b>UniCoLab</b> – Platform for students to collaborate on hackathons, projects, and research work.
   </a>
+    <b>UniCoLab</b> – Platform for students to collaborate on hackathons, projects, and research work.
 </p>
 
 <p align="center">
   <a href="https://steganographytool-fexw.onrender.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/vanshs2022/vanshs2022/main/steganography.png" alt="Steganography Tool" width="250"/><br/>
-    <b>Steganography Tool</b> – Web tool to hide and extract secret messages inside images securely.
   </a>
+    <b>Steganography Tool</b> – Web tool to hide and extract secret messages inside images securely.
 </p>
 
 
