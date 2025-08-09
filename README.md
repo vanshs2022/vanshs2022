@@ -21,7 +21,7 @@
 
 ## 🚀 Projects
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="33%" style="border: none;">
       <a href="https://github.com/AryanRaina/Homes28" target="_blank">
